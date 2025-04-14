@@ -1,0 +1,34 @@
+# variable      fix/fit  value                uncertainty        initial                min. allowed        max. allowed      
+c0              fit      1.00017              -0.00053 +0.00052  0.9998703599462087     0.9549548149507847  1.0376504221544107
+c1              fit      0.00050              -0.00037 +0.00038  0.0006901649127417642  -2.0                2.0               
+LDC1_COUSINS_R  fix      0.5184313603577293                                                                                   
+LDC2_COUSINS_R  fix      -0.1436852194779681                                                                                  
+LDC3_COUSINS_R  fix      0.6929911740477769                                                                                   
+LDC4_COUSINS_R  fix      -0.3102065351872991                                                                                  
+rp              fit      0.1013               -0.0010 +0.0010    0.10132674972982497    0.026225            0.4196            
+P               fix      2.61585982                                                                                           
+a               fix      7.93                                                                                                 
+e               fix      0.0                                                                                                  
+i               fix      88.0                                                                                                 
+w               fix      0.0                                                                                                  
+T_mid           fit      2460700.47875        -0.00037 +0.00038  2460700.4781859606     2460700.2787641     2460700.6787641   
+
+#Pre-fit:
+#Number of outliers removed: 4
+#Uncertainties scale factor: 1.3783213790871218
+
+#Residuals:
+#Mean: 8.928742957651464e-06
+#STD: 0.0019482438557731757
+#RMS: 0.001948264315745873
+#Chi squared: 560.0010134953905
+#Reduced chi squared: 1.0071960674377527
+#Max auto-correlation: 0.1408182272308235
+#Max auto-correlation flag: False
+#Shapiro test: 0.9976512686002945
+#Shapiro test flag: False
+
+#Detrended Residuals:
+#Mean: 8.921237777050855e-06
+#STD: 0.001946610930507501
+#RMS: 0.0019466313732329377
